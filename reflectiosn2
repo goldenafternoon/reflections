@@ -16,3 +16,18 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+
+
+
+
+REVIEW
+init, add, staging area
+
+We’ve introduced a few new concepts since we last revisited our concept map.
+
+    git init
+    git add
+    git status
+    staging area
+    working directory
